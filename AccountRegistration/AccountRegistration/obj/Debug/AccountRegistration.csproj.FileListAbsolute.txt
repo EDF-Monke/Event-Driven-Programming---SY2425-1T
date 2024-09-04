@@ -1,0 +1,11 @@
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.pdb
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.AssemblyReference.cache
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Form1.resources
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.pdb
+C:\Users\Dian\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmConfirm.resources
